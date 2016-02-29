@@ -1,0 +1,36 @@
+vm. Tabula
+
+indicans numeros ponderum atomorum in
+’ computando adhibitos.
+
+Aluminium ...... 27,1
+Antimonium ..... 12⁰,2
+Argentum ....... 107,93
+Arsenioum ....... 75,0
+Baryum ......... 137,4
+Bismuthum ...... 208,5
+Borium ......... 11,0
+Bromium ........ 79,96
+Culoium ......... 40‚1
+Carbonium ...... 12‚00
+Chlorium ........ 35,45
+Chromium ....... 52,1
+Ferrum ......... 55,9
+Hydrurgyrum.. .. 200‚0
+
+Hydrogenium. . . 1,008
+Iodium ......... 126‚97
+Kalium ........ 39,15
+Lithium ........ 7,03
+Magnesiam ..... 24,36
+Monguuum ..... 55,0
+Nutrium ....... 23,05
+Nitrogonium.. .. 14,04
+Oxygonium ..... 16,00
+Phosphorus ..... 31,0
+Plumbum ....... 206,9
+Sulfur ......... 32,06
+Zinoum ........ 65,4
+
+ 
+
